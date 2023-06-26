@@ -15,7 +15,8 @@ O gerente do time de BI solicitou a criação de um DashBoard para apresentar a 
 
 - Segue uma das telas do DashBoard:
 
-![image](https://github.com/RaphaelaRosa/RaphaelaRosa/assets/96753305/0f0c3080-9a4f-4c2d-a1e1-58799ee3da9f)
+![image](https://github.com/RaphaelaRosa/RaphaelaRosa/assets/96753305/f95652b9-148a-4370-aeda-42d5246cd7cd)
+
 
 
 -	Segue o link do protótipo completo criado no FIGMA: 
