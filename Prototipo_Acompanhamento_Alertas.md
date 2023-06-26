@@ -13,7 +13,8 @@ Monitorar as cargas dos dados na ferramenta de BI. <br>
 
 - Segue uma das telas do DashBoard: <br>
 
-![image](https://github.com/RaphaelaRosa/RaphaelaRosa/assets/96753305/cd1f6091-f4a1-4170-96cb-cfcb384e9a70)
+![image](https://github.com/RaphaelaRosa/RaphaelaRosa/assets/96753305/0ca7f67d-5dd8-4c03-89d0-56db7119777e)
+
 
  
 
