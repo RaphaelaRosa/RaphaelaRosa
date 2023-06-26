@@ -13,8 +13,8 @@ Foi aí que surgiu a ideia de criar um DashBoard com o monitoramento das ativida
 • Depois de testes de utilização, com o ok, implantei para produção. <br>
 
 - Segue uma das telas do DashBoard:
-
-![image](https://github.com/RaphaelaRosa/RaphaelaRosa/assets/96753305/48152716-04a0-4017-a31a-234d41b6b4c9)
+  
+![image](https://github.com/RaphaelaRosa/RaphaelaRosa/assets/96753305/cc72c846-479b-4987-bef1-dd8612d9f7f9)
 
  
 
